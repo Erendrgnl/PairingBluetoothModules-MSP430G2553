@@ -1,0 +1,54 @@
+Added Component: Designator=3v_c1(CAPR5-4X5)
+Added Component: Designator=3v_c2(CAPR5-4X5)
+Added Component: Designator=HC-05(HDR1X6)
+Added Component: Designator=Jack 9V(CUI_PJ-002BH)
+Added Component: Designator=LM1117T(T03B)
+Added Component: Designator=OS(R38)
+Added Component: Designator=reset_res(AXIAL-0.3)
+Added Component: Designator=SG90(HDR1X3)
+Added Component: Designator=U?(TI-N20)
+Added Component: Designator=x1_cap(RAD-0.3)
+Added Component: Designator=x2_cap(RAD-0.3)
+Added Pin To Net: NetName=GND Pin=3v_c1-1
+Added Pin To Net: NetName=GND Pin=3v_c2-1
+Added Pin To Net: NetName=GND Pin=HC-05-3
+Added Pin To Net: NetName=GND Pin=Jack 9V-2
+Added Pin To Net: NetName=GND Pin=LM1117T-1
+Added Pin To Net: NetName=GND Pin=SG90-3
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Pin To Net: NetName=GND Pin=x1_cap-2
+Added Pin To Net: NetName=GND Pin=x2_cap-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net3v_c1_2 Pin=3v_c1-2
+Added Pin To Net: NetName=Net3v_c1_2 Pin=Jack 9V-1
+Added Pin To Net: NetName=Net3v_c1_2 Pin=LM1117T-3
+Added Pin To Net: NetName=Net3v_c1_2 Pin=SG90-2
+Added Net: Name=Net3v_c1_2
+Added Pin To Net: NetName=Net3v_c2_2 Pin=3v_c2-2
+Added Pin To Net: NetName=Net3v_c2_2 Pin=HC-05-2
+Added Pin To Net: NetName=Net3v_c2_2 Pin=LM1117T-2
+Added Pin To Net: NetName=Net3v_c2_2 Pin=reset_res-1
+Added Pin To Net: NetName=Net3v_c2_2 Pin=U?-1
+Added Net: Name=Net3v_c2_2
+Added Pin To Net: NetName=NetHC-05_4 Pin=HC-05-4
+Added Pin To Net: NetName=NetHC-05_4 Pin=U?-3
+Added Net: Name=NetHC-05_4
+Added Pin To Net: NetName=NetHC-05_5 Pin=HC-05-5
+Added Pin To Net: NetName=NetHC-05_5 Pin=U?-4
+Added Net: Name=NetHC-05_5
+Added Pin To Net: NetName=NetOS_1 Pin=OS-1
+Added Pin To Net: NetName=NetOS_1 Pin=U?-18
+Added Pin To Net: NetName=NetOS_1 Pin=x2_cap-1
+Added Net: Name=NetOS_1
+Added Pin To Net: NetName=NetOS_2 Pin=OS-2
+Added Pin To Net: NetName=NetOS_2 Pin=U?-19
+Added Pin To Net: NetName=NetOS_2 Pin=x1_cap-1
+Added Net: Name=NetOS_2
+Added Pin To Net: NetName=Netreset_res_2 Pin=reset_res-2
+Added Pin To Net: NetName=Netreset_res_2 Pin=U?-16
+Added Net: Name=Netreset_res_2
+Added Pin To Net: NetName=NetSG90_1 Pin=SG90-1
+Added Pin To Net: NetName=NetSG90_1 Pin=U?-10
+Added Net: Name=NetSG90_1
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

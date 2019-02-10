@@ -1,0 +1,40 @@
+Added Component: Designator=3v_c1(CAPR5-4X5)
+Added Component: Designator=3v_c2(CAPR5-4X5)
+Added Component: Designator=HC-06(HDR1X4)
+Added Component: Designator=OS(R38)
+Added Component: Designator=reset_res(AXIAL-0.3)
+Added Component: Designator=U?(TI-N20)
+Added Component: Designator=x1_cap(RAD-0.3)
+Added Component: Designator=x2_cap(RAD-0.3)
+Added Pin To Net: NetName=GND Pin=3v_c1-1
+Added Pin To Net: NetName=Net3v_c1_2 Pin=3v_c1-2
+Added Pin To Net: NetName=GND Pin=3v_c2-1
+Added Pin To Net: NetName=Net3v_c2_2 Pin=3v_c2-2
+Added Pin To Net: NetName=Net3v_c2_2 Pin=HC-06-1
+Added Pin To Net: NetName=GND Pin=HC-06-2
+Added Pin To Net: NetName=NetHC-06_3 Pin=HC-06-3
+Added Pin To Net: NetName=NetHC-06_4 Pin=HC-06-4
+Added Pin To Net: NetName=NetOS_1 Pin=OS-1
+Added Pin To Net: NetName=NetOS_2 Pin=OS-2
+Added Pin To Net: NetName=Net3v_c2_2 Pin=reset_res-1
+Added Pin To Net: NetName=Netreset_button_2 Pin=reset_res-2
+Added Pin To Net: NetName=Net3v_c2_2 Pin=U?-1
+Added Pin To Net: NetName=NetHC-06_3 Pin=U?-3
+Added Pin To Net: NetName=NetHC-06_4 Pin=U?-4
+Added Pin To Net: NetName=Netreset_button_2 Pin=U?-16
+Added Pin To Net: NetName=NetOS_1 Pin=U?-18
+Added Pin To Net: NetName=NetOS_2 Pin=U?-19
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Pin To Net: NetName=NetOS_2 Pin=x1_cap-1
+Added Pin To Net: NetName=GND Pin=x1_cap-2
+Added Pin To Net: NetName=NetOS_1 Pin=x2_cap-1
+Added Pin To Net: NetName=GND Pin=x2_cap-2
+Added Member To Class: ClassName=Sheet1 Member=Component 3v_c1 Cap2
+Added Member To Class: ClassName=Sheet1 Member=Component 3v_c2 Cap2
+Added Member To Class: ClassName=Sheet1 Member=Component HC-06 Bluetooth Module
+Added Member To Class: ClassName=Sheet1 Member=Component OS XTAL
+Added Member To Class: ClassName=Sheet1 Member=Component reset_res Res1
+Added Member To Class: ClassName=Sheet1 Member=Component U? MSP430G2533IN20
+Added Member To Class: ClassName=Sheet1 Member=Component x1_cap x1_Cap
+Added Member To Class: ClassName=Sheet1 Member=Component x2_cap x2_Cap
+Added Room: Name=Sheet1
